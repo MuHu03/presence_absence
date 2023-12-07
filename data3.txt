@@ -1,0 +1,8 @@
+CS.4011.CE.QIAU 2
+1 Alexis Johnson 40121441 1 
+2 Isabella Smith 40121442 1 
+3 Michael Brown 40121443 1 
+4 William Jones 40121444 1 
+5 Olivia Miller 40121445 0 
+6 James Davis 40121446 0 
+7 Emma Williams 40121447 0 

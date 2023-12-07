@@ -1,0 +1,8 @@
+CS.4011.CE.QIAU 4
+1 Alexis Johnson 40121441 1 1 1 
+2 Isabella Smith 40121442 1 1 0 
+3 Michael Brown 40121443 0 0 0 
+4 William Jones 40121444 1 0 0 
+5 Olivia Miller 40121445 1 0 0 
+6 James Davis 40121446 1 0 0 
+7 Emma Williams 40121447 1 0 0 
